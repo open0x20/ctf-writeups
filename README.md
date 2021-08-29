@@ -6,8 +6,9 @@ Some writeups, HackMD backups or just brainless notes.
 - Tenable CTF
 - NahamCon CTF
 - RITSEC CTF
-- DawgCTF
+- Dawg CTF
 
 ### Misc
 - [gracker.org](http://gracker.org)
 - TryHackMe Writeups
+- Google Beginner Quest 2021
