@@ -61,22 +61,25 @@ _CTF{IJustHopeThisIsNotOnShodan}_
 ## 2 Apartment Logic Lock (Misc)
 We get a file with a gibberish name. Putting it through the `file` command tells us that it's a zip archive:
 ```
-$ file 419bcccb21e0773e1a7db7ddcb4d557c7d19b5a76cd421851d9e20ab451702b252de11e90d14c3992f14bb4c5b330ea5368f8c52eb1e4c8f82f153aea6566d56 
-419bcccb21e0773e1a7db7ddcb4d557c7d19b5a76cd421851d9e20ab451702b252de11e90d14c3992f14bb4c5b330ea5368f8c52eb1e4c8f82f153aea6566d56: Zip archive data, at least v2.0 to extract
+$ file 419bcccb21e0773e1a7db7ddcb4d557c7d19b5a76cd42
+1851d9e20ab451702b252de11e90d14c3992f14bb4c5b330ea53
+68f8c52eb1e4c8f82f153aea6566d56
+
+Zip archive data, at least v2.0 to extract
 ```
 
 Just rename the file to something.zip and use a gui tool to browser the archive. Actually there is just one file in there called `logic-lock.png` with a bunch of connected logic gates. Find the correct input to get a logical true at the output.
 
-A - 0
-B - 1
-C - 1
-D - 0
-E - 0
-F - 1
-G - 0
-H - 0
-I - 1
-J - 1
+- A - 0
+- B - 1
+- C - 1
+- D - 0
+- E - 0
+- F - 1
+- G - 0
+- H - 0
+- I - 1
+- J - 1
 
 CTF{BCFIJ}
 
