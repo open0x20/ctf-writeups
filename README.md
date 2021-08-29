@@ -6,7 +6,8 @@ Some writeups, HackMD backups or just brainless notes.
 - Tenable CTF
 - NahamCon CTF
 - RITSEC CTF
+- DawgCTF
 
 ### Misc
-- gracker.io
+- [gracker.org](http://gracker.org)
 - TryHackMe Writeups
