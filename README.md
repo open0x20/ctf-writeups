@@ -8,6 +8,9 @@ Some writeups, HackMD backups or just brainless notes.
 - RITSEC CTF
 - Dawg CTF
 
+### 2022
+- Tenable CTF
+
 ### Misc
 - [gracker.org](http://gracker.org)
 - TryHackMe Writeups
