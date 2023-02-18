@@ -258,8 +258,20 @@ ictf{0ld_m0nk_190de1c3}
 
 ### PyJail
 
-```python
+* connect with nc
+* you'll get a python shell
+* cannot ue `/`, use `a = chr(47)` instead
 
+```python
+import os
+
+arr = os.listdir()
+
+print(arr)
+
+dortei = open(a + "home" + a + "ctf" + a + "flag.txt")
+content = dortei.read()
+print(content)
 ```
 
 ictf{ff8ab219-a90b-44f8-9273-ccc13766f2eb}
