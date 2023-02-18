@@ -11,6 +11,9 @@ Some writeups, HackMD backups or just brainless notes.
 ### 2022
 - Tenable CTF
 
+### 2023
+- Incognito 4.0
+
 ### Misc
 - [gracker.org](http://gracker.org)
 - TryHackMe Writeups
