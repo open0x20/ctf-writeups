@@ -13,6 +13,8 @@ Some writeups, HackMD backups or just brainless notes.
 
 ### 2023
 - Incognito 4.0
+- NullConCTF
+- WolvCTF
 
 ### Misc
 - [gracker.org](http://gracker.org)
